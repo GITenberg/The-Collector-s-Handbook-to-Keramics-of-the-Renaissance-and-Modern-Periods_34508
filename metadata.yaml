@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '37060'
     url: http://www.gutenberg.org/2009/agents/37060
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34508#The-Collector-s-Handbook-to-Keramics-of-the-Renaissance-and-Modern-Periods
 gutenberg_issued: '2010-11-30'
 gutenberg_type: Text
 identifiers:
